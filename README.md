@@ -25,12 +25,12 @@ List of awesome resources for learning and developing tools according to the [Le
 ## Libraries and demo codes
 Demo codes or sample implementations are listed below each library.
 ### Python
-* LTI 1.1 [`pylti`](https://github.com/mitodl/pylti) by MIT Office of Digital Learning
+* [LTI 1.1 `pylti`](https://github.com/mitodl/pylti) by MIT Office of Digital Learning
   * [Sample Tool Provider in Flask](https://github.com/mitodl/mit_lti_flask_sample) by MIT Office of Digital Learning
   * [Tool Provider Template in Flask ](https://github.com/ucfopen/lti-template-flask) by University of Central Florida - Open Source
-* LTI 1.1 [`lti`](https://github.com/pylti/lti) by Python LTI Initiative
+* [LTI 1.1 `lti`](https://github.com/pylti/lti) by Python LTI Initiative
   * [Local Tool Consumer](https://github.com/wachjose88/local-lti-consumer) by Josef Wachtler
-* LTI 1.3 and LTI Advantage [`pylti1.3`](https://github.com/dmitry-viskov/pylti1.3) by Dmitry Viskov
+* [LTI 1.3 and LTI Advantage `pylti1.3`](https://github.com/dmitry-viskov/pylti1.3) by Dmitry Viskov
   * [Example Tool Provider in Django](https://github.com/dmitry-viskov/pylti1.3-django-example) by Dmitry Viskov
   * [Example Tool Provider in Flask](https://github.com/dmitry-viskov/pylti1.3-flask-example) by Dmitry Viskov
 
