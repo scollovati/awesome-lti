@@ -29,7 +29,8 @@ Demo codes or sample implementations are listed below each library.
   * [Sample Tool Provider in Flask](https://github.com/mitodl/mit_lti_flask_sample) by MIT Office of Digital Learning
   * [Tool Provider Template in Flask ](https://github.com/ucfopen/lti-template-flask) by University of Central Florida - Open Source
 * [LTI 1.1 `lti`](https://github.com/pylti/lti) by Python LTI Initiative
-  * [Local Tool Consumer](https://github.com/wachjose88/local-lti-consumer) by Josef Wachtler
+  * [Local Tool Consumer in Django](https://github.com/wachjose88/local-lti-consumer) by Josef Wachtler
+  * [Tool Provider in Django](https://github.com/wachjose88/django-lti-provider-auth) by Josef Wachtler
 * [LTI 1.3 and LTI Advantage `pylti1.3`](https://github.com/dmitry-viskov/pylti1.3) by Dmitry Viskov
   * [Example Tool Provider in Django](https://github.com/dmitry-viskov/pylti1.3-django-example) by Dmitry Viskov
   * [Example Tool Provider in Flask](https://github.com/dmitry-viskov/pylti1.3-flask-example) by Dmitry Viskov
