@@ -12,7 +12,7 @@ List of awesome resources for learning and developing tools according to the [Le
 ## Learning materials
 
 * [LTI 1.1: from B to C](https://www.youtube.com/watch?v=I0zhjzCxovw&list=PLb5mG7w3UZkM_kx0mbojgDX4qFkGQsXO_&index=1) by Claude Vervoot  ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
-* [LTI 1.3 and LTI Advantage Bootcamp](https://github.com/IMSGlobal/ltibootcamp) by IMS Global ![](https://img.shields.io/badge/code-000?logo=GitHub)
+* [LTI 1.3 and LTI Advantage Bootcamp](https://github.com/IMSGlobal/ltibootcamp) by IMS Global Learning Consortium ![](https://img.shields.io/badge/code-000?logo=GitHub)
 * [LTI 1.3 and LTI Advantage Bootcamp](https://www.youtube.com/watch?v=f_6pWiQpg5s&list=PLb5mG7w3UZkPKHODmz5YCkIqnWQEsjMkd) by Claude Vervoot ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
   * [Companion text and code](https://github.com/IMSGlobal/ltibootcamp) for the bootcamp video by Claude Vervoot ![](https://img.shields.io/badge/code-000?logo=GitHub)
 * Build a LTI 1.3 and LTI Advantage Tool with Martin Lenord ![](https://img.shields.io/badge/video-red?logo=YouTube) :
@@ -32,7 +32,7 @@ List of awesome resources for learning and developing tools according to the [Le
  
 
 ## Libraries and implementations
-> :warning: Before using these libraries and tools remember to verify that their LICENSES allow you to do so.
+> :warning: Before using these libraries and tools verify that their LICENSES allow you to do so.
 
 Demo codes or sample implementations are listed below each library.
 ### Python
@@ -45,6 +45,12 @@ Demo codes or sample implementations are listed below each library.
 * [LTI 1.3 and LTI Advantage `pylti1.3`](https://github.com/dmitry-viskov/pylti1.3) by Dmitry Viskov
   * [Example Tool Provider in Django](https://github.com/dmitry-viskov/pylti1.3-django-example) by Dmitry Viskov
   * [Example Tool Provider in Flask](https://github.com/dmitry-viskov/pylti1.3-flask-example) by Dmitry Viskov
+
+### PHP
+* [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) by ceLTIc project
+  * [Rating PHP](https://github.com/celtic-project/Rating-PHP) by ceLTIc project
+* [LTI 1.3 Advantage Library](https://github.com/IMSGlobal/lti-1-3-php-library) by IMS Global Learning Consortium
+  * [LTI 1.3 Advantage Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool) by IMS Global Learning Consortium
 
 
 # Contributing
