@@ -24,15 +24,16 @@ List of awesome resources for learning and developing tools according to the [Le
 
 ## Reference Implementations
 
-## Libraries and implementations
-> :warning: Before using these libraries and tools remember to verify that their LICENSES allow you to do so.
-
-* [LTI 1.1 - saLTIre Tool Consumer emulator](https://lti.tools/saltire/tc) by ceLTIc project
-* [LTI 1.1 - saLTIre Provider emulator](https://lti.tools/saltire/tp) by ceLTIc project
+* [LTI 1.1 saLTIre Tool Consumer emulator](https://lti.tools/saltire/tc) by ceLTIc project
+* [LTI 1.1 saLTIre Provider emulator](https://lti.tools/saltire/tp) by ceLTIc project
 * [LTI 1.3 Reference Implementation Platform](https://lti-ri.imsglobal.org/platforms) by IMS Global Learning Consortium
 * [LTI 1.3 Reference Implementation Tool](https://lti-ri.imsglobal.org/lti/tools) by IMS Global Learning Consortium
 
  
+
+## Libraries and implementations
+> :warning: Before using these libraries and tools remember to verify that their LICENSES allow you to do so.
+
 Demo codes or sample implementations are listed below each library.
 ### Python
 * [LTI 1.1 `pylti`](https://github.com/mitodl/pylti) by MIT Office of Digital Learning
