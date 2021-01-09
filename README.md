@@ -7,7 +7,7 @@ List of awesome resources for learning and developing tools according to the [Le
 
   - [Learning materials](#learning-materials)
   - [Reference Implementations](#reference-implementations)
-  - [Libs and demo codes](#libs-and-demo-codes)
+  - [Libraries and Examples](#libraries-and-examples)
 
 ## Learning materials
 
@@ -31,7 +31,7 @@ List of awesome resources for learning and developing tools according to the [Le
 
  
 
-## Libraries and implementations
+## Libraries and Examples
 > :warning: Before using these libraries and tools verify that their LICENSES allow you to do so.
 
 Demo codes or sample implementations are listed below each library.
