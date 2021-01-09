@@ -1,11 +1,12 @@
 # Awesome LTI Resources
-> This is a personal project. It does not necessarily represent the views of either IMS Global nor of my employer. I provide no warranty that the linked resources contain correct informations and/or are functioning properly.
+> :warning: This is a personal project. It does not necessarily represent the views of either IMS Global nor of my employer. I provide no warranty that the linked resources contain correct informations and/or are functioning properly.
 
 List of awesome resources for learning and developing tools according to the [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability) (LTI &copy;) standard created by the IMS Global Learning Consortium.
 
 ## Table of Contents
 
   - [Learning materials](#learning-materials)
+  - [Reference Implementations](#reference-implementations)
   - [Libs and demo codes](#libs-and-demo-codes)
 
 ## Learning materials
@@ -21,8 +22,17 @@ List of awesome resources for learning and developing tools according to the [Le
   * [Part 4 - Names & Roles Provisioning Service](https://www.youtube.com/watch?v=1Ux-P8d-L0Q) 
   * [Part 5 - Group Service](https://www.youtube.com/watch?v=MpdsoZiFXuE) 
 
+## Reference Implementations
 
-## Libraries and demo codes
+## Libraries and implementations
+> :warning: Before using these libraries and tools remember to verify that their LICENSES allow you to do so.
+
+* [LTI 1.1 - saLTIre Tool Consumer emulator](https://lti.tools/saltire/tc) by ceLTIc project
+* [LTI 1.1 - saLTIre Provider emulator](https://lti.tools/saltire/tp) by ceLTIc project
+* [LTI 1.3 Reference Implementation Platform](https://lti-ri.imsglobal.org/platforms) by IMS Global Learning Consortium
+* [LTI 1.3 Reference Implementation Tool](https://lti-ri.imsglobal.org/lti/tools) by IMS Global Learning Consortium
+
+ 
 Demo codes or sample implementations are listed below each library.
 ### Python
 * [LTI 1.1 `pylti`](https://github.com/mitodl/pylti) by MIT Office of Digital Learning
