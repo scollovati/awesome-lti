@@ -51,6 +51,7 @@ Demo codes or sample implementations are listed below each library.
   * [Rating PHP](https://github.com/celtic-project/Rating-PHP) by ceLTIc project
 * [LTI 1.3 Advantage Library](https://github.com/IMSGlobal/lti-1-3-php-library) by IMS Global Learning Consortium
   * [LTI 1.3 Advantage Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool) by IMS Global Learning Consortium
+* [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) by  Open Assessment Technologies (TAO)
 
 
 # Contributing
