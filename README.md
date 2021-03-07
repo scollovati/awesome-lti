@@ -35,6 +35,14 @@ List of awesome resources for learning and developing tools according to the [Le
 > :warning: Before using these libraries and tools verify that their LICENSES allow you to do so.
 
 Demo codes or sample implementations are listed below each library.
+
+### JAVA
+
+* [LTI 1.1 `basiclti-util`](https://github.com/IMSGlobal/basiclti-util-java) by IMS Global Learning Consortium
+* [LTI 1.3 and LTI Advantage `lti-13`](https://github.com/UOC/java-lti-1.3) by UOC
+* [LTI 1.3 and LTI Advantage `spring-boot-lti-advantage`](https://github.com/UOC/spring-boot-lti-advantage) by UOC
+  * [Sample Tool Provider in Spring Boot](https://github.com/UOC/java-lti-1.3-provider-example) by UOC
+
 ### Python
 * [LTI 1.1 `pylti`](https://github.com/mitodl/pylti) by MIT Office of Digital Learning
   * [Sample Tool Provider in Flask](https://github.com/mitodl/mit_lti_flask_sample) by MIT Office of Digital Learning
