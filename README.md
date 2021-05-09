@@ -12,6 +12,7 @@ List of awesome resources for learning and developing tools according to the [Le
 ## Learning materials
 
 * [LTI 1.1: from B to C](https://www.youtube.com/watch?v=I0zhjzCxovw&list=PLb5mG7w3UZkM_kx0mbojgDX4qFkGQsXO_&index=1) by Claude Vervoot  ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
+* [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI) by OktaDev ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
 * [LTI 1.3 and LTI Advantage Bootcamp](https://github.com/IMSGlobal/ltibootcamp) by IMS Global Learning Consortium ![](https://img.shields.io/badge/code-000?logo=GitHub)
 * [LTI 1.3 and LTI Advantage Bootcamp](https://www.youtube.com/watch?v=f_6pWiQpg5s&list=PLb5mG7w3UZkPKHODmz5YCkIqnWQEsjMkd) by Claude Vervoot ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
   * [Companion text and code](https://github.com/IMSGlobal/ltibootcamp) for the bootcamp video by Claude Vervoot ![](https://img.shields.io/badge/code-000?logo=GitHub)
@@ -24,8 +25,8 @@ List of awesome resources for learning and developing tools according to the [Le
 
 ## Reference Implementations
 
-* [LTI 1.1 saLTIre Tool Consumer emulator](https://lti.tools/saltire/tc) by ceLTIc project
-* [LTI 1.1 saLTIre Provider emulator](https://lti.tools/saltire/tp) by ceLTIc project
+* [LTI 1.1 and 1.3 saLTIre Tool Consumer/Platform emulator](https://saltire.lti.app/platform) by ceLTIc project
+* [LTI 1.1 and 1.3 saLTIre Tool (Provider) emulator](https://saltire.lti.app/tool) by ceLTIc project
 * [LTI 1.3 Reference Implementation Platform](https://lti-ri.imsglobal.org/platforms) by IMS Global Learning Consortium
 * [LTI 1.3 Reference Implementation Tool](https://lti-ri.imsglobal.org/lti/tools) by IMS Global Learning Consortium
 
