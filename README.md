@@ -3,6 +3,9 @@
 
 List of awesome resources for learning and developing tools according to the [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability) (LTI &copy;) standard created by the IMS Global Learning Consortium.
 
+![](https://img.shields.io/github/license/scollovati/awesome-lti?style=for-the-badge)
+[![](https://img.shields.io/static/v1?label=Gitlab&message=awesome-lti&style=for-the-badge&logo=gitlab)](https://gitlab.com/scollovati/awesome-lti)
+[![](https://img.shields.io/static/v1?label=Github&message=awesome-lti&style=for-the-badge&logo=github)](https://github.com/scollovati/awesome-lti)
 ## Table of Contents
 
   - [Learning materials](#learning-materials)
