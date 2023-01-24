@@ -61,6 +61,8 @@ Demo codes or sample implementations are listed below each library.
 ### PHP
 * [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) by ceLTIc project
   * [Rating PHP](https://github.com/celtic-project/Rating-PHP) by ceLTIc project
+  * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) by Longhorn Open Ed Tech
+  * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) by Longhorn Open Ed Tech
 * [LTI 1.3 Advantage Library](https://github.com/IMSGlobal/lti-1-3-php-library) by IMS Global Learning Consortium
   * [LTI 1.3 Advantage Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool) by IMS Global Learning Consortium
 * [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) by  Open Assessment Technologies (TAO)
