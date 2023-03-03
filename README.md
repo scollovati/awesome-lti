@@ -1,7 +1,7 @@
 # Awesome LTI Resources
-> :warning: This is a personal project. It does not necessarily represent the views of either IMS Global nor of my employer. I provide no warranty that the linked resources contain correct informations and/or are functioning properly.
+> :warning: This is a personal project. It does not necessarily represent the views of either 1EdTech Consortium nor of my employer. I provide no warranty that the linked resources contain correct informations and/or are functioning properly.
 
-List of awesome resources for learning and developing tools according to the [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability) (LTI &copy;) standard created by the IMS Global Learning Consortium.
+List of awesome resources for learning and developing tools according to the [Learning Tools Interoperability](https://www.imsglobal.org/activity/learning-tools-interoperability) (LTI &copy;) standard created by the 1EdTech Consortium.
 
 ![](https://img.shields.io/github/license/scollovati/awesome-lti?style=for-the-badge)
 [![](https://img.shields.io/static/v1?label=Gitlab&message=awesome-lti&style=for-the-badge&logo=gitlab)](https://gitlab.com/scollovati/awesome-lti)
@@ -16,9 +16,9 @@ List of awesome resources for learning and developing tools according to the [Le
 
 * [LTI 1.1: from B to C](https://www.youtube.com/watch?v=I0zhjzCxovw&list=PLb5mG7w3UZkM_kx0mbojgDX4qFkGQsXO_&index=1) by Claude Vervoot  ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
 * [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI) by OktaDev ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
-* [LTI 1.3 and LTI Advantage Bootcamp](https://github.com/IMSGlobal/ltibootcamp) by IMS Global Learning Consortium ![](https://img.shields.io/badge/code-000?logo=GitHub)
+* [LTI 1.3 and LTI Advantage Bootcamp](https://github.com/1EdTech/ltibootcamp) by 1EdTech Consortium ![](https://img.shields.io/badge/code-000?logo=GitHub)
 * [LTI 1.3 and LTI Advantage Bootcamp](https://www.youtube.com/watch?v=f_6pWiQpg5s&list=PLb5mG7w3UZkPKHODmz5YCkIqnWQEsjMkd) by Claude Vervoot ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
-  * [Companion text and code](https://github.com/IMSGlobal/ltibootcamp) for the bootcamp video by Claude Vervoot ![](https://img.shields.io/badge/code-000?logo=GitHub)
+  * [Companion text and code](https://github.com/1EdTech/ltibootcamp) for the bootcamp video by Claude Vervoot ![](https://img.shields.io/badge/code-000?logo=GitHub)
 * Build a LTI 1.3 and LTI Advantage Tool with Martin Lenord ![](https://img.shields.io/badge/video-red?logo=YouTube) :
   * [Part 1 - LTI 1.3 Launch](https://www.youtube.com/watch?v=fI-rhSSDU8M) 
   * [Part 2 - Deep Linking Capabilities](https://www.youtube.com/watch?v=EQUEmJFWNbI) 
@@ -30,8 +30,8 @@ List of awesome resources for learning and developing tools according to the [Le
 
 * [LTI 1.1 and 1.3 saLTIre Tool Consumer/Platform emulator](https://saltire.lti.app/platform) by ceLTIc project
 * [LTI 1.1 and 1.3 saLTIre Tool (Provider) emulator](https://saltire.lti.app/tool) by ceLTIc project
-* [LTI 1.3 Reference Implementation Platform](https://lti-ri.imsglobal.org/platforms) by IMS Global Learning Consortium
-* [LTI 1.3 Reference Implementation Tool](https://lti-ri.imsglobal.org/lti/tools) by IMS Global Learning Consortium
+* [LTI 1.3 Reference Implementation Platform](https://lti-ri.imsglobal.org/platforms) by 1EdTech Consortium
+* [LTI 1.3 Reference Implementation Tool](https://lti-ri.imsglobal.org/lti/tools) by 1EdTech Consortium
 
  
 
@@ -42,7 +42,7 @@ Demo codes or sample implementations are listed below each library.
 
 ### JAVA
 
-* [LTI 1.1 `basiclti-util`](https://github.com/IMSGlobal/basiclti-util-java) by IMS Global Learning Consortium
+* [LTI 1.1 `basiclti-util`](https://github.com/1EdTech/basiclti-util-java) by 1EdTech Consortium
 * [LTI 1.3 and LTI Advantage `lti-13`](https://github.com/UOC/java-lti-1.3) by UOC
 * [LTI 1.3 and LTI Advantage `spring-boot-lti-advantage`](https://github.com/UOC/spring-boot-lti-advantage) by UOC
   * [Sample Tool Provider in Spring Boot](https://github.com/UOC/java-lti-1.3-provider-example) by UOC
@@ -63,8 +63,8 @@ Demo codes or sample implementations are listed below each library.
   * [Rating PHP](https://github.com/celtic-project/Rating-PHP) by ceLTIc project
   * [Integrates the Celtic LTI library with a Laravel app](https://github.com/longhornopen/laravel-celtic-lti) by Longhorn Open Ed Tech
   * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) by Longhorn Open Ed Tech
-* [LTI 1.3 Advantage Library](https://github.com/IMSGlobal/lti-1-3-php-library) by IMS Global Learning Consortium
-  * [LTI 1.3 Advantage Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool) by IMS Global Learning Consortium
+* [LTI 1.3 Advantage Library](https://github.com/1EdTech/lti-1-3-php-library) by 1EdTech Consortium
+  * [LTI 1.3 Advantage Demo Tool](https://github.com/1EdTech/lti-1-3-php-example-tool) by 1EdTech Consortium
 * [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) by  Open Assessment Technologies (TAO)
   * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) by  Open Assessment Technologies (TAO)
 
