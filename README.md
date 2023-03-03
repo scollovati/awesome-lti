@@ -33,7 +33,9 @@ List of awesome resources for learning and developing tools according to the [Le
 * [LTI 1.3 Reference Implementation Platform](https://lti-ri.imsglobal.org/platforms) by 1EdTech Consortium
 * [LTI 1.3 Reference Implementation Tool](https://lti-ri.imsglobal.org/lti/tools) by 1EdTech Consortium
 
- 
+## Utilities
+
+* [View & debug LTI requests from within the developer tools](https://github.com/pfgray/lti-debugger) by Paul Gray 
 
 ## Libraries and Examples
 > :warning: Before using these libraries and tools verify that their LICENSES allow you to do so.
