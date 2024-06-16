@@ -36,6 +36,7 @@ List of awesome resources for learning and developing tools according to the [Le
 ## Utilities
 
 * [View & debug LTI requests from within the developer tools](https://github.com/pfgray/lti-debugger) by Paul Gray 
+* [JSON Web Token (JWT) Debugger](https://jwt.io/#debugger-io) by Auth0
 
 ## Libraries and Examples
 > :warning: Before using these libraries and tools verify that their LICENSES allow you to do so.
