@@ -50,6 +50,9 @@ Demo codes or sample implementations are listed below each library.
 * [LTI 1.3 and LTI Advantage `spring-boot-lti-advantage`](https://github.com/UOC/spring-boot-lti-advantage) by UOC
   * [Sample Tool Provider in Spring Boot](https://github.com/UOC/java-lti-1.3-provider-example) by UOC
 
+### Javascript (Node.js)
+* [LTI 1.3 and LTI Advantage `ltijs`](https://cvmcosta.me/ltijs/) by Carlos Costa
+
 ### Python
 * [LTI 1.1 `pylti`](https://github.com/mitodl/pylti) by MIT Office of Digital Learning
   * [Sample Tool Provider in Flask](https://github.com/mitodl/mit_lti_flask_sample) by MIT Office of Digital Learning
@@ -76,7 +79,7 @@ Demo codes or sample implementations are listed below each library.
 Any contribution (`Issues` or `Pull requests`) is welcome!
 
 # License
-This work is licesed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 See `LICENSE` file for more details.
 
 [![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](LICENSE)
