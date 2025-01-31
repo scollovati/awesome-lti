@@ -43,6 +43,11 @@ List of awesome resources for learning and developing tools according to the [Le
 
 Demo codes or sample implementations are listed below each library.
 
+### .NET Core
+* [LTI 1.3 and LTI Advantage `LtiAdvantage`](https://github.com/LtiLibrary/LtiAdvantage)
+* [LTI 1.3 `Tpcly.Lti`](https://github.com/LtiLibrary/LtiAdvantage) by  Jelle Maas
+
+
 ### JAVA
 
 * [LTI 1.1 `basiclti-util`](https://github.com/1EdTech/basiclti-util-java) by 1EdTech Consortium
