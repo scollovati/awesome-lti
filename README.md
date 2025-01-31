@@ -16,7 +16,7 @@ List of awesome resources for learning and developing tools according to the [Le
 
 * [LTI 1.1: from B to C](https://www.youtube.com/watch?v=I0zhjzCxovw&list=PLb5mG7w3UZkM_kx0mbojgDX4qFkGQsXO_&index=1) by Claude Vervoot  ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
 * [An Illustrated Guide to OAuth and OpenID Connect](https://www.youtube.com/watch?v=t18YB3xDfXI) by OktaDev ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
-* [LTI 1.3 and LTI Advantage Bootcamp](https://github.com/1EdTech/ltibootcamp) by 1EdTech Consortium ![](https://img.shields.io/badge/code-000?logo=GitHub)
+* [LTI 1.3 and LTI Advantage Bootcamp activities and sample code in Python](https://github.com/1EdTech/LTI-bootcamp-python/tree/main?tab=readme-ov-file) by 1EdTech Consortium ![](https://img.shields.io/badge/code-000?logo=GitHub)
 * [LTI 1.3 and LTI Advantage Bootcamp](https://www.youtube.com/watch?v=f_6pWiQpg5s&list=PLb5mG7w3UZkPKHODmz5YCkIqnWQEsjMkd) by Claude Vervoot ![](https://img.shields.io/badge/playlist-red?logo=YouTube)
   * [Companion text and code](https://github.com/1EdTech/ltibootcamp) for the bootcamp video by Claude Vervoot ![](https://img.shields.io/badge/code-000?logo=GitHub)
 * Build a LTI 1.3 and LTI Advantage Tool with Martin Lenord ![](https://img.shields.io/badge/video-red?logo=YouTube) :
@@ -25,6 +25,7 @@ List of awesome resources for learning and developing tools according to the [Le
   * [Part 3 - Assignment & Grades Service](https://www.youtube.com/watch?v=YOg_mZ6bWXg) 
   * [Part 4 - Names & Roles Provisioning Service](https://www.youtube.com/watch?v=1Ux-P8d-L0Q) 
   * [Part 5 - Group Service](https://www.youtube.com/watch?v=MpdsoZiFXuE) 
+
 
 ## Reference Implementations
 
@@ -55,8 +56,10 @@ Demo codes or sample implementations are listed below each library.
 * [LTI 1.3 and LTI Advantage `spring-boot-lti-advantage`](https://github.com/UOC/spring-boot-lti-advantage) by UOC
   * [Sample Tool Provider in Spring Boot](https://github.com/UOC/java-lti-1.3-provider-example) by UOC
 
-### Javascript (Node.js)
+### Javascript, Typescript, NodeJS
 * [LTI 1.3 and LTI Advantage `ltijs`](https://cvmcosta.me/ltijs/) by Carlos Costa
+* [Enable LTI 1.3 Service](https://aws-samples.github.io/enable-lti/) by AWS
+* [LTI 1.3 Tool for testing Launches, Caliper, and Outcomes](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node) by Blackboard Inc.
 
 ### Python
 * [LTI 1.1 `pylti`](https://github.com/mitodl/pylti) by MIT Office of Digital Learning
