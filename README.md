@@ -63,6 +63,7 @@ Demo codes or sample implementations are listed below each library.
 * [LTI 1.3 and LTI Advantage `pylti1.3`](https://github.com/dmitry-viskov/pylti1.3) by Dmitry Viskov
   * [Example Tool Provider in Django](https://github.com/dmitry-viskov/pylti1.3-django-example) by Dmitry Viskov
   * [Example Tool Provider in Flask](https://github.com/dmitry-viskov/pylti1.3-flask-example) by Dmitry Viskov
+  * [LTI 1.3 Advantage Django reusable app](https://github.com/academic-innovation/django-lti) by UM Center for Academic Innovation
 
 ### PHP
 * [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) by ceLTIc project
@@ -71,6 +72,7 @@ Demo codes or sample implementations are listed below each library.
   * [A simple LTI tool for integrating Qualtrics surveys into a course](https://github.com/longhornopen/qualtrics-lti) by Longhorn Open Ed Tech
 * [LTI 1.3 Advantage Library](https://github.com/1EdTech/lti-1-3-php-library) by 1EdTech Consortium
   * [LTI 1.3 Advantage Demo Tool](https://github.com/1EdTech/lti-1-3-php-example-tool) by 1EdTech Consortium
+* [LTI 1.3 Tool Library](https://github.com/packbackbooks/lti-1-3-php-library) by Packback Book (this is a fork of the 1EdTech Consortium library)
 * [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) by  Open Assessment Technologies (TAO)
   * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) by  Open Assessment Technologies (TAO)
 
