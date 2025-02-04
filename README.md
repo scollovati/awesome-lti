@@ -84,6 +84,9 @@ Demo codes or sample implementations are listed below each library.
 * [LTI 1.3 Core](https://github.com/oat-sa/lib-lti1p3-core) by  Open Assessment Technologies (TAO)
   * [LTI 1.3 Demo Application](https://github.com/oat-sa/demo-lti1p3) by  Open Assessment Technologies (TAO)
 
+### Ruby
+* [LTI Advantage](https://github.com/atomicjolt/atomic_lti) by  Atomic Jolt, Inc. 
+
 
 # Contributing
 Any contribution (`Issues` or `Pull requests`) is welcome!
