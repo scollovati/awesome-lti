@@ -38,6 +38,7 @@ List of awesome resources for learning and developing tools according to the [Le
 
 * [View & debug LTI requests from within the developer tools](https://github.com/pfgray/lti-debugger) by Paul Gray 
 * [JSON Web Token (JWT) Debugger](https://jwt.io/#debugger-io) by Auth0
+* [JWTs: Which Signing Algorithm Should I Use?](https://www.scottbrady.io/jose/jwts-which-signing-algorithm-should-i-use) by Scott Brady
 
 ## Libraries and Examples
 > :warning: Before using these libraries and tools verify that their LICENSES allow you to do so.
