@@ -73,6 +73,7 @@ Demo codes or sample implementations are listed below each library.
   * [Example Tool Provider in Django](https://github.com/dmitry-viskov/pylti1.3-django-example) by Dmitry Viskov
   * [Example Tool Provider in Flask](https://github.com/dmitry-viskov/pylti1.3-flask-example) by Dmitry Viskov
   * [LTI 1.3 Advantage Django reusable app](https://github.com/academic-innovation/django-lti) by UM Center for Academic Innovation
+  * [LTI 1.3 Advantage Django/Flask cookiecutter template](https://github.com/ucfopen/cookiecutter-python-lti) by University of Central Florida - Open Source
 
 ### PHP
 * [LTI 1.1 and LTI 1.3 Advantage](https://github.com/celtic-project/LTI-PHP) by ceLTIc project
